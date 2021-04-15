@@ -1,2 +1,2 @@
 # learngit
-git blame quite useful
+git blame quite usefulgit 
